@@ -1,6 +1,6 @@
 # README
 
-Extend some AVL and event missing
+Startingg from the good work made before, i just extend in codec8ex some AVL ( ioElements ) and event, and i also add a debug flag tp trace the parser trace the parser used) 
 
 Parsing teltonika binary data from device FMB0XX.
 Right now supported Codec8, Codec8 Extended and Codec7 format, Codec 16 yet in process.
