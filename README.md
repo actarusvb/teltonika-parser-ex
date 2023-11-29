@@ -1,5 +1,7 @@
 # README
 
+Extend some AVL and event missing
+
 Parsing teltonika binary data from device FMB0XX.
 Right now supported Codec8, Codec8 Extended and Codec7 format, Codec 16 yet in process.
 
